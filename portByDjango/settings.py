@@ -132,6 +132,6 @@ STATICFILES_DIRS = [
 ]
 
 CSRF_TRUSTED_ORIGINS = [
-    "https://profiledjangoa-production.up.railway.app"
+    "https://profiledjango5-production.up.railway.app"
 ]
 
