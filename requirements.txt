@@ -8,5 +8,5 @@ django-cors-headers>=4.2,<5.0
 django.shortcuts
 django-tinymce>=3.6.1
 django.urls
-django.contrib
+
 
